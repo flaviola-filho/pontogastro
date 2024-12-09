@@ -35,8 +35,9 @@ O objetivo principal foi desenvolver um site institucional que refletisse os val
 
 🌟 Demonstração
 Clique aqui para acessar o site e explorar todas as funcionalidades.
+https://www.pontogastroassistencia.com.br/
 
 ✍️ Autor
-Desenvolvido por Flavio Luiz de Araujo Filho .
+Desenvolvido por Flávio Filho .
 
 Se você gostou deste projeto ou tem interesse em algo semelhante, não hesite em me contatar!
